@@ -3,10 +3,11 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Northwind.DataAccess.Abstract
+namespace Northwind.Business.Abstract
 {
-    public interface IProductDal:IEntityRepository<Product>
+    public interface ICategoryService
     {
-       
+        List<Category> GetAll();
+
     }
 }
