@@ -1,2 +1,2 @@
 # LayeredArchitecture
-Engin Demiroğ Udemy lessons
+Udemy lessons from Engin Demiroğ 
